@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . 'CreditCard.php';
+require_once __DIR__ . '/CreditCard.php';
 
 class Costumer{
     public $name;
