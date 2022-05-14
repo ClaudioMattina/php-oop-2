@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ .  'food.php';
-require_once __DIR__ .  'costumer.php';
+require_once __DIR__ .  'Food.php';
+require_once __DIR__ .  'Costumer.php';
 
 ?>
